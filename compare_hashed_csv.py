@@ -7,7 +7,7 @@ import pandas as pd
 def hashedNUM_csv():
     with open('hashed.csv', 'w+') as f:
         f.write("Col0" + "," + "Col1" + '\n')
-        for step in range(0, 20):
+        for step in range(0, 21):
             message = str(step).encode()
             hashed = hashlib.sha256(message).hexdigest()
             print("SHA-256:", hashed)
