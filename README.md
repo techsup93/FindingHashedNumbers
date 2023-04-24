@@ -1,5 +1,5 @@
 # FindingHashedNumbers
-Finding hashed numbers in a CSV dataset with a bottom-up approach
+Finding SHA-256 hashed numbers in a CSV dataset with a bottom-up approach
 This project aims to demonstrate how to read and compare hashed CSV files using Python.
 
 Steps
