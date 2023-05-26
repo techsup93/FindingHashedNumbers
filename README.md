@@ -2,7 +2,7 @@
 Finding SHA-256 hashed numbers in a CSV dataset with a bottom-up approach
 This project aims to demonstrate how to read and compare hashed CSV files using Python.
 
-Steps
+Steps:
 
 Step 0: Create a Sample Hashed CSV file 0-20
 The first step is to generate a hashed CSV file containing numbers from 0 to 20. This step will create a file named "hashed.csv".
